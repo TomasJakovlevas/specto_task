@@ -1,0 +1,14 @@
+.mainContainer {
+  min-height: 100vh;
+  position: relative;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #0f1d5b;
+  outline: 1px solid slategrey;
+  border-radius: 10px;
+}
